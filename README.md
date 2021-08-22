@@ -1,4 +1,4 @@
-[www.scottdallman,github.io](www.scottdallman,github.io)
+[www.scottdallman.github.io](www.scottdallman.github.io)
 
 ## Welcome to GitHub Pages
 
