@@ -7,6 +7,6 @@ I am currently an economist at the U.S. Census Bureau's Center for Enterprise Di
 
 ---
 
-_*Job Market Paper: The Effect of the Opioid Abuse on Child Out-of-Home Placements*_
+*Job Market Paper: The Effect of the Opioid Abuse on Child Out-of-Home Placements*
 
 
