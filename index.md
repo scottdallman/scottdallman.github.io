@@ -9,6 +9,6 @@ I am a PhD candidate at the University of Minnesota and a research assistant at 
 
 ---
 
-### Support or Contact
+### JOB MARKET PAPER:THE EFFECT OF OPIOID ABUSE ON CHILD OUT-OF-HOME PLACEMENTS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
