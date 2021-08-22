@@ -1,9 +1,13 @@
 
 ## Hi
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scottdallman/scottdallman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am an applied microeconomist with interests in labor & demographic economics related to child development and education.
+
+I am a PhD candidate at the University of Minnesota and a research assistant at the Federal Reserve Bank of Minneapolis. All views on this site are my own and do not represent the views of the Federal Reserve Bank of Minneapolis or the Federal Reserve System.
+
+---
 
 ### Support or Contact
 
