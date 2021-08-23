@@ -4,6 +4,9 @@ layout: default
 
 ## Home
 
+
+<img style="float: center;" src="https://github.com/scottdallman/scottdallman.github.io/blob/cb0e0361c48901c5f4bd424c0441c9d3d4ffb6bb/images/IMG-3356.JPG">
+
 ---
 I am currently an economist at the U.S. Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied labor & demographic economics related to child development, health, and education policy as well as intergenerational mobility.
 
