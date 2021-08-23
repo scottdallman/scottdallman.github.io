@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Home
-
+---
 
 <img style="float: center;" width="25%" height="25%" src="https://github.com/scottdallman/scottdallman.github.io/blob/cb0e0361c48901c5f4bd424c0441c9d3d4ffb6bb/images/IMG-3356.JPG">
 
