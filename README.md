@@ -41,7 +41,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ---
-layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
