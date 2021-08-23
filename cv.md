@@ -1,4 +1,7 @@
-## Curriculum Vitae
+---
+layout: default
+---
 
+## Curriculum Vitae
 ---
 
