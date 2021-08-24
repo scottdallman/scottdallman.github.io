@@ -1,8 +1,4 @@
-theme: jekyll-theme-minimal
-social_links:
-    twitter: jekyllrb
-    github: jekyll
-    linkedin: jekyll
+theme: minima
     
 title: Scott Dallman
 description: Economist \newline
