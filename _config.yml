@@ -1,5 +1,7 @@
 theme: minima
-    
+minima:
+  skin: dark
+  
 title: Scott Dallman
 description: Economist \newline
              Center for Enterprise Dissemination (CED) \newline
