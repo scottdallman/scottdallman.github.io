@@ -5,11 +5,7 @@ layout: default
 ## Home
 ---
 
-<img style="float: center;" width="40%" height="40%" src="/images/IMG-3356.JPG">
-
----
-
-I am currently an economist at the U.S. Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied demographic & labor economics related to child development, health, and education policy as well as intergenerational mobility.
+<img style="float: left;" width="40%" height="40%" src="/images/IMG-3356.JPG"> I am currently an economist at the U.S. Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied demographic & labor economics related to child development, health, and education policy as well as intergenerational mobility.
 
 ---
 
