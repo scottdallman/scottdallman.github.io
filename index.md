@@ -11,7 +11,7 @@ I am currently an economist at the U.S. Census Bureau's Center for Enterprise Di
 ---
 
 <p float="left">
-  <img style="float: center;" width="50%" height="50%" src="/images/jmp_website_image.png">
+  <img style="float: right;" width="50%" height="50%" src="/images/jmp_website_image.png">
 
   ### [_The Effect of Opioid Abuse on Child Out-of-Home Placements — JOB MARKET PAPER_](/images/JMP_ScottDallman.pdf)
 
