@@ -1,11 +1,4 @@
-theme: minima
-minima:
-  skin: dark
-  social_links:
-    twitter: scott_dallman 
-    github: scottdallman
-    linkedin: Scott Dallman
-  
+theme: minimal  
     
 title: Scott Dallman
 description: scott.j.dallman@census.gov
