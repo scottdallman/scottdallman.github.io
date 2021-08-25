@@ -5,7 +5,7 @@ layout: default
 ## Home
 ---
 
-<img style="float: center;" width="40%" height="40%" src="images/IMG-3356.JPG">
+<img style="float: center;" width="40%" height="40%" src="/images/IMG-3356.JPG">
 
 ---
 
