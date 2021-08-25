@@ -13,7 +13,8 @@ I am currently an economist at the U.S. Census Bureau's Center for Enterprise Di
 <p float="left">
   <img style="float: right;" width="50%" height="50%" src="/images/jmp_website_image.png">
 
-  ### [_The Effect of Opioid Abuse on Child Out-of-Home Placements — JOB MARKET PAPER_](/images/JMP_ScottDallman.pdf)
+
+### [_The Effect of Opioid Abuse on Child Out-of-Home Placements — JOB MARKET PAPER_](/images/JMP_ScottDallman.pdf)
 
   Opioid abuse has become a major public health issue in the US. While opioid misuse has direct consequences for addicts, children may also be affected. To prevent misuse of the prescription opiate OxyContin, Purdue Pharma released an abuse-deterrent version in 2010. Unintentionally, this reformulation caused many addicted to OxyContin to substitute more harmful opioids such as heroin and fentanyl in its place.
 
