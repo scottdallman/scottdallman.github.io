@@ -1,7 +1,12 @@
 theme: minima
 minima:
   skin: dark
+  social_links:
+    twitter: scott_dallman 
+    github: scottdallman
+    linkedin: Scott Dallman
   
+    
 title: Scott Dallman
 description: Economist \newline
              Center for Enterprise Dissemination (CED) \newline
