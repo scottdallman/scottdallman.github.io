@@ -4,7 +4,7 @@ plugins:
     
 title: Scott Dallman
 description: scott.j.dallman@census.gov
-
+logo: /images/IMG-3356.JPG
 header_pages: 
 - index.md
     
