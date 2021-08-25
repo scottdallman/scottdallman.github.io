@@ -5,7 +5,7 @@ layout: default
 
 # About Me
 
-I am currently an economist at the U.S. Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied demographic & labor economics related to child well-being, health, and huamn capital investment.
+I am currently an economist at the U.S. Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied demographic & labor economics related to child well-being, health, and huyman capital investment.
 
 [_Curriculum Vitae_](/images/CV.pdf)
 
