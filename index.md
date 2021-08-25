@@ -5,11 +5,13 @@ layout: default
 ## Home
 ---
 
-<img style="float: left;" width="40%" height="40%" src="/images/IMG-3356.JPG"> I am currently an economist at the U.S. Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied demographic & labor economics related to child development, health, and education policy as well as intergenerational mobility.
+<img style="float: left;" width="40%" height="40%" src="/images/IMG-3356.JPG">
+
+I am currently an economist at the U.S. Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied demographic & labor economics related to child development, health, and education policy as well as intergenerational mobility.
 
 ---
 
-<img style="float: right;" src="https://images.squarespace-cdn.com/content/v1/567b7000dc5cb40b6b4ba08b/1467518460740-J1KB1GMR2J6LSTN27CB3/image-asset.png?format=500w">
+<img style="float: center;" src="https://images.squarespace-cdn.com/content/v1/567b7000dc5cb40b6b4ba08b/1467518460740-J1KB1GMR2J6LSTN27CB3/image-asset.png?format=500w">
 
 ### _*Job Market Paper: The Effect of the Opioid Abuse on Child Out-of-Home Placements*_ 
 
