@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Curriculum Vitae
+# Curriculum Vitae
 ---
 
 [_CV_](/images/CV.pdf)
