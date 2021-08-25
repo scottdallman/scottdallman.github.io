@@ -8,10 +8,7 @@ minima:
   
     
 title: Scott Dallman
-description: Economist \newline
-             Center for Enterprise Dissemination (CED) \newline
-             U.S. Census Bureau \newline
-             [scott.j.dallman@census.gov](scott.j.dallman@census.gov)
+description: [scott.j.dallman@census.gov](scott.j.dallman@census.gov)
 
 header_pages: 
     - index.md
