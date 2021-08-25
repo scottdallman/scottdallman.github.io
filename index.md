@@ -14,7 +14,7 @@ I am currently an economist at the U.S. Census Bureau's Center for Enterprise Di
 
 <img style="float: center;" width="30%" height="30%" src="/images/jmp_website_image.png">
 
-- [_The Effect of Opioid Abuse on Child Out-of-Home Placements — JOB MARKET PAPER_](/images/JMP_ScottDallman.pdf)
+- [_The Effect of Opioid Abuse on Child Out-of-Home Placements_](/images/JMP_ScottDallman.pdf)
 
 - [_The Effect of Constitutional Provisions on Education Policy and Outcomes_](https://www.minneapolisfed.org/research/sr/sr623.pdf) (with Anusha Nath and Filip Premik). April 26, 2021. Federal Reserve Bank of Minneapolis Staff Report 623.
 
