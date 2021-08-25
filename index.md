@@ -2,7 +2,6 @@
 layout: default
 ---
 
----
 
 <img style="float: left;" width="35%" height="35%" src="/images/IMG-3356.JPG">
 
@@ -13,11 +12,10 @@ I am currently an economist at the U.S. Census Bureau's Center for Enterprise Di
 ---
 
 # Research
----
 
 ## Working Papers
 
-<img style="float: center;" width="50%" height="50%" src="/images/jmp_website_image.png">
+<img style="float: center;" width="30%" height="30%" src="/images/jmp_website_image.png">
 
 - [_The Effect of Opioid Abuse on Child Out-of-Home Placements — JOB MARKET PAPER_](/images/JMP_ScottDallman.pdf)
 
