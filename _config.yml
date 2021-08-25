@@ -1,9 +1,10 @@
-theme: minimal  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
     
 title: Scott Dallman
 description: scott.j.dallman@census.gov
 
 header_pages: 
-    - index.md
+- index.md
     
-google_analytics: UA-NNNNNNNN-N
