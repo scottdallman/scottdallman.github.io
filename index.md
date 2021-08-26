@@ -7,7 +7,7 @@ layout: default
 
 I am currently an economist at the U.S. Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied demographic & labor economics related to child well-being, health, and human capital investment.
 
-[_Curriculum Vitae_](/images/CV.pdf)
+[_**Curriculum Vitae**_](/images/CV.pdf)
 
 ---
 
@@ -15,16 +15,16 @@ I am currently an economist at the U.S. Census Bureau's Center for Enterprise Di
 
 ## Working Papers
 
-- [_The Effect of Opioid Abuse on Child Out-of-Home Placements_](/images/JMP_ScottDallman.pdf)
+- [_**The Effect of Opioid Abuse on Child Out-of-Home Placements**_](/images/JMP_ScottDallman.pdf)
 
-- [_The Effect of Constitutional Provisions on Education Policy and Outcomes_](https://www.minneapolisfed.org/research/sr/sr623.pdf) (with Anusha Nath and Filip Premik). April 26, 2021. Federal Reserve Bank of Minneapolis Staff Report 623.
+- [_**The Effect of Constitutional Provisions on Education Policy and Outcomes**_](https://www.minneapolisfed.org/research/sr/sr623.pdf) (with Anusha Nath and Filip Premik). April 26, 2021. Federal Reserve Bank of Minneapolis Staff Report 623.
 
 
 ## Research & Policy Briefs
 
-- [_Education amendments improve student achievement and lead to policy changes_](https://www.minneapolisfed.org/~/media/assets/articles/2021/education-amendments-improve-student-achievement-and-school-funding/fed-edugap-amendment-research-summary.pdf?la=en) (with Anusha Nath and Filip Premik).  April 26th, 2021.  Federal Reserve Bank of Minneapolis Policy Brief. 
+- [_**Education amendments improve student achievement and lead to policy changes**_](https://www.minneapolisfed.org/~/media/assets/articles/2021/education-amendments-improve-student-achievement-and-school-funding/fed-edugap-amendment-research-summary.pdf?la=en) (with Anusha Nath and Filip Premik).  April 26th, 2021.  Federal Reserve Bank of Minneapolis Policy Brief. 
 
-- [_Education Clauses in State Constitutions Across the United States_](https://www.minneapolisfed.org/~/media/assets/articles/2020/education-clauses-in-state-constitutions-across-the-united-states/education-clauses-in-state-constitutions-across-the-united-states.pdf?la=en) (with Anusha Nath).  January 8th, 2020.  Federal Reserve Bank of Minneapolis Policy Brief. 
+- [_**Education Clauses in State Constitutions Across the United States**_](https://www.minneapolisfed.org/~/media/assets/articles/2020/education-clauses-in-state-constitutions-across-the-united-states/education-clauses-in-state-constitutions-across-the-united-states.pdf?la=en) (with Anusha Nath).  January 8th, 2020.  Federal Reserve Bank of Minneapolis Policy Brief. 
 
 
 ## Work in Progress
