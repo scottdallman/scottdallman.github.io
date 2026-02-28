@@ -33,12 +33,13 @@ I am a research economist at the US Census Bureau's Center for Enterprise Dissem
 
 - [_Education Clauses in State Constitutions Across the United States_](https://www.minneapolisfed.org/~/media/assets/articles/2020/education-clauses-in-state-constitutions-across-the-united-states/education-clauses-in-state-constitutions-across-the-united-states.pdf?la=en) (with Anusha Nath).  January 8th, 2020.  Federal Reserve Bank of Minneapolis Policy Brief. 
 
-
+<!--
 ## Resting Papers
 
 - Medicaid Expansion and Child Maltreatment (with James Elwell and Aaron Sojourner)
 
 - Profits from Sins: The Substitution (Complementarity) of State Revenue from Alcohol, Tobacco, and Marijuana Taxation (with Gregory Leung)
+-->
 
 
 
