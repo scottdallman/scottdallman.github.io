@@ -15,7 +15,13 @@ I am currently a research economist at the US Census Bureau's Center for Enterpr
 
 ## Working Papers
 
+- [_Privacy and Survey Response: Evidence from Broadband Internet_](/images/ced-wp-2025-002.pdf) (with Evan Totty, under review)
+
 - [_The Effect of Opioid Abuse on Child Out-of-Home Placements_](/images/JMP_ScottDallman.pdf)
+
+- The Impact of Equal Legal Rights for Same-Sex Married Couples on Child Adoptions
+
+- The Effects of Public Housing Assistance on Educational Attainment During the Great Depression
 
 - [_The Effect of Constitutional Provisions on Education Policy and Outcomes_](https://www.minneapolisfed.org/research/sr/sr623.pdf) (with Anusha Nath and Filip Premik). April 26, 2021. Federal Reserve Bank of Minneapolis Staff Report 623.
 
@@ -27,11 +33,7 @@ I am currently a research economist at the US Census Bureau's Center for Enterpr
 - [_Education Clauses in State Constitutions Across the United States_](https://www.minneapolisfed.org/~/media/assets/articles/2020/education-clauses-in-state-constitutions-across-the-united-states/education-clauses-in-state-constitutions-across-the-united-states.pdf?la=en) (with Anusha Nath).  January 8th, 2020.  Federal Reserve Bank of Minneapolis Policy Brief. 
 
 
-## Work in Progress
-
-- The Impact of Equal Legal Rights for Same-Sex Married Couples on Child Adoptions
-
-- The Effects of Public Housing Assistance on Educational Attainment During the Great Depression
+## Resting Papers
 
 - Medicaid Expansion and Child Maltreatment (with James Elwell and Aaron Sojourner)
 
