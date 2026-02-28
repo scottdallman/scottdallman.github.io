@@ -13,8 +13,7 @@ I am a research economist at the US Census Bureau's Center for Enterprise Dissem
 
 # Research
 
-- [_Privacy and Survey Response: Evidence from Broadband Internet_](/images/ced-wp-2025-002.pdf)
-(with Evan Totty), _under review_
+- [_Privacy and Survey Response: Evidence from Broadband Internet_](/images/ced-wp-2025-002.pdf) (with Evan Totty), _under review_
 
   
 ## Working Papers
