@@ -18,7 +18,7 @@ I am a research economist at the US Census Bureau's Center for Enterprise Dissem
   
 ## Working Papers
 
-- <!--[_The Effect of Opioid Abuse on Child Out-of-Home Placements_](/images/JMP_ScottDallman.pdf)-->
+<!-- - [_The Effect of Opioid Abuse on Child Out-of-Home Placements_](/images/JMP_ScottDallman.pdf)-->
 - The Effect of Opioid Abuse on Child Out-of-Home Placements
 
 - The Impact of Equal Legal Rights for Same-Sex Married Couples on Child Adoptions
