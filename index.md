@@ -27,7 +27,7 @@ I am a research economist at the US Census Bureau's Center for Enterprise Dissem
 - [_The Effect of Constitutional Provisions on Education Policy and Outcomes_](https://www.minneapolisfed.org/research/sr/sr623.pdf) (with Anusha Nath and Filip Premik). April 26, 2021. Federal Reserve Bank of Minneapolis Staff Report 623.
 
 
-## Technical Papers & Policy Briefs
+## Policy Briefs & Technical Papers
 
 - [_Education amendments improve student achievement and lead to policy changes_](https://www.minneapolisfed.org/~/media/assets/articles/2021/education-amendments-improve-student-achievement-and-school-funding/fed-edugap-amendment-research-summary.pdf?la=en) (with Anusha Nath and Filip Premik).  April 26th, 2021.  Federal Reserve Bank of Minneapolis Policy Brief. 
 
