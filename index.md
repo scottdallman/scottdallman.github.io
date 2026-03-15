@@ -11,7 +11,6 @@ I am a research economist at the US Census Bureau's Center for Enterprise Dissem
 [_Curriculum Vitae_](/images/CV_Dallman2026.pdf)
 -->
 
----
 
 # Research
   
