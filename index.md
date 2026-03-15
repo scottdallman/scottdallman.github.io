@@ -6,9 +6,9 @@ layout: default
 # Scott Dallman
 
 I am a research economist at the US Census Bureau's Center for Enterprise Dissemination (CED). My research interests are in applied demographic & labor economics related to child well-being, health, and human capital investment.
-
+<!--
 [_Curriculum Vitae_](/images/CV_Dallman2026.pdf)
-
+-->
 ---
 
 # Research
