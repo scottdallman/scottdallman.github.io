@@ -24,14 +24,14 @@ I am a research economist at the US Census Bureau's Center for Enterprise Dissem
 
 - The Effects of Public Housing Assistance on Educational Attainment During the Great Depression
 
-- [_The Effect of Constitutional Provisions on Education Policy and Outcomes_](https://www.minneapolisfed.org/research/sr/sr623.pdf) (with Anusha Nath and Filip Premik). April 26, 2021. Federal Reserve Bank of Minneapolis Staff Report 623.
+- [_The Effect of Constitutional Provisions on Education Policy and Outcomes_](https://www.minneapolisfed.org/research/staff-reports/the-effect-of-constitutional-provisions-on-education-policy-and-outcomes) (with Anusha Nath and Filip Premik). April 26, 2021. Federal Reserve Bank of Minneapolis Staff Report 623.
 
 
 ## Policy Briefs & Technical Papers
 
-- [_Education amendments improve student achievement and lead to policy changes_](https://www.minneapolisfed.org/~/media/assets/articles/2021/education-amendments-improve-student-achievement-and-school-funding/fed-edugap-amendment-research-summary.pdf?la=en) (with Anusha Nath and Filip Premik).  April 26th, 2021.  Federal Reserve Bank of Minneapolis.
+- [_Education amendments improve student achievement and lead to policy changes_](https://www.minneapolisfed.org/article/2021/education-amendments-improve-student-achievement-and-lead-to-policy-changes) (with Anusha Nath and Filip Premik).  April 26th, 2021.  Federal Reserve Bank of Minneapolis.
 
-- [_Education Clauses in State Constitutions Across the United States_](https://www.minneapolisfed.org/~/media/assets/articles/2020/education-clauses-in-state-constitutions-across-the-united-states/education-clauses-in-state-constitutions-across-the-united-states.pdf?la=en) (with Anusha Nath).  January 8th, 2020.  Federal Reserve Bank of Minneapolis.
+- [_Education Clauses in State Constitutions Across the United States_](https://www.minneapolisfed.org/article/2020/education-clauses-in-state-constitutions-across-the-united-states) (with Anusha Nath).  January 8th, 2020.  Federal Reserve Bank of Minneapolis.
 
 <!--
 ## Resting Papers
