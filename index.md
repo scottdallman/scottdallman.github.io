@@ -15,7 +15,7 @@ I am a research economist at the US Census Bureau's Center for Enterprise Dissem
   
 ## Working Papers
 
-- [_Privacy and Survey Response: Evidence from Broadband Internet_](https://www2.census.gov/library/working-papers/2025/adrm/ced/ced-wp-2025-002.pdf) (with Evan Totty), _under review_
+- [_Privacy and Survey Response: Evidence from Broadband Internet_](https://www.census.gov/library/working-papers/2025/adrm/ced-wp-2025-002.html) (with Evan Totty), _under review_
 
 <!-- - [_The Effect of Opioid Abuse on Child Out-of-Home Placements_](/images/JMP_ScottDallman.pdf)-->
 - The Effect of Opioid Abuse on Child Out-of-Home Placements
